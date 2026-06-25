@@ -1,5 +1,5 @@
 # Hi, I'm Alfiyata 👋
-rontend Developer with over 3+ years of experience specializ in NextJS, Vue.js, TypeScript/JavaScript, and Web Mobile using Ionic Framework, Tanstack query, Build SEO performance through metadata optimization, structured data, Core Web Vitals enhancement & search visibility strategy.
+Frontend Developer with over 3+ years of experience specializ in NextJS, Vue.js, TypeScript/JavaScript, and Web Mobile using Ionic Framework, Tanstack query, Build SEO performance through metadata optimization, structured data, Core Web Vitals enhancement & search visibility strategy.
 
 ## 🛠 Tech Stack
 
